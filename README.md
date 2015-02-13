@@ -20,6 +20,7 @@ Here is Ken's website, from where I originally downloaded the code: http://www.r
 I downloaded:  
 -TV-B-Gone for Arduino version 1.2, Oct 23 2010  
 -Ported to Arduino by Ken Shirriff  
+
 I have made some slight modifications to his code, however, so you might call this version V1.21 or something now. I added debouncing to the pushbutton, for instance, using my eRCaGuy_ButtonReader library found here: http://bit.ly/eRCaGuy_ButtonReader_TVBGoneReadme -- you will need this library to compile this version of the code. I'm not sure if this makes much of a difference for this particular application, due to how the TVBGone works, but I didn't see debouncing going on already, so I thought it wasn't a bad idea.  
 
 **For other interesting articles and info, visit my website here: (http://electricrcaircraftguy.blogspot.com/)**  
