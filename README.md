@@ -2,7 +2,7 @@ TVBGone Readme
 Readme Written: 13 Feb. 2015  
 Readme Last Updated: 13 Feb. 2015 
 
-**Circuit** 
+**Circuit**  
 (also described in the .ino file) 
 Circuit:  
  Connect an IR LED to pin 3.  
@@ -10,11 +10,11 @@ Circuit:
  Connect a pushbutton between pin 2 (TRIGGER) and ground. 
  Pin 5 (REGIONSWITCH) is floating for North America, or wired to ground for Europe. 
 
-**IMPORTANT** 
+**IMPORTANT**  
 1. Note, this code will NOT compile in Arduino 1.5.7 or later, due to the newer Arduino IDEs using a newer version of the gcc compiler, which has changed the way progmem is handled. I am using Arduino 1.5.6-r2 Beta to compile and upload this code. It is available here: http://arduino.cc/en/Main/OldSoftwareReleases 
 2. You must have my eRCaGuy_ButtonReader library installed to compile this code. It is available here: http://bit.ly/eRCaGuy_ButtonReader_TVBGoneReadme 
  
-**Description** 
+**Description**  
 This is my version of the TVBGone, invented by Mitch Altman, supported and expanded by Limor Fried (Ladyada), and ported to Arduino by Ken Shirriff.
 Here is Ken's website, from where I originally downloaded the code: http://www.righto.com/2010/11/improved-arduino-tv-b-gone.html - his download link is at the top.
 I downloaded: 
