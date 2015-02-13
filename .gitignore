@@ -43,3 +43,5 @@ Temporary Items
 .apdisk
 TVB_Gabe3_for_pcb_design/!!!-IMPORTANT NOTE!!! - TVBGone code will NOT compile in Arduino 1.5.7 or later, due to using a newer gcc....txt
 TVB_Gabe3_for_pcb_design/!GS 20141025 - this version removes Pin 4 as an extra GND pin, since I have a good PCB designed board now.txt
+temp/!!!-IMPORTANT NOTE!!! - TVBGone code will NOT compile in Arduino 1.5.7 or later, due to using a newer gcc....txt
+temp/!GS 20141025 - this version removes Pin 4 as an extra GND pin, since I have a good PCB designed board now.txt
