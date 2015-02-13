@@ -5,10 +5,10 @@ Readme Last Updated: 13 Feb. 2015
 **Circuit**  
 (also described in the .ino file)  
 Circuit:  
-    Connect an IR LED to pin 3.  
-  Connect a visible LED to pin 13 (or use builtin LED in some Arduinos).  
-  Connect a pushbutton between pin 2 (TRIGGER) and ground.  
-  Pin 5 (REGIONSWITCH) is floating for North America, or wired to ground for Europe.  
+-Connect an IR LED to pin 3.  
+-Connect a visible LED to pin 13 (or use builtin LED in some Arduinos).  
+-Connect a pushbutton between pin 2 (TRIGGER) and ground.  
+-Pin 5 (REGIONSWITCH) is floating for North America, or wired to ground for Europe.  
 
 **IMPORTANT**  
 1. Note, this code will NOT compile in Arduino 1.5.7 or later, due to the newer Arduino IDEs using a newer version of the gcc compiler, which has changed the way progmem is handled. I am using Arduino 1.5.6-r2 Beta to compile and upload this code. It is available here: http://arduino.cc/en/Main/OldSoftwareReleases  
