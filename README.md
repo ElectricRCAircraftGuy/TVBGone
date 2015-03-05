@@ -11,7 +11,7 @@ Circuit:
 -Pin 5 (REGIONSWITCH) is floating for North America, or wired to ground for Europe.  
 
 **IMPORTANT**  
-1. Note, this code will NOT compile in Arduino 1.5.7 or later, due to the newer Arduino IDEs using a newer version of the gcc compiler, which has changed the way progmem is handled. I am using Arduino 1.5.6-r2 Beta to compile and upload this code. It is available here: http://arduino.cc/en/Main/OldSoftwareReleases  
+1. **Note, this code will NOT compile in Arduino 1.5.7 or later, due to the newer Arduino IDEs using a newer version of the gcc compiler, which has changed the way progmem is handled. I am using Arduino 1.5.6-r2 Beta to compile and upload this code. It is available here:** http://arduino.cc/en/Main/OldSoftwareReleases  
 2. You must have my eRCaGuy_ButtonReader library installed to compile this code. It is available here: http://bit.ly/eRCaGuy_ButtonReader_TVBGoneReadme  
  
 **Description**  
