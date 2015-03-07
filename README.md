@@ -2,6 +2,10 @@ TVBGone Readme
 Readme Written: 13 Feb. 2015  
 Readme Last Updated: 13 Feb. 2015  
 
+###Note: the source version of this fork is found in Ken Shirriff's repository here: https://github.com/shirriff/Arduino-TV-B-Gone. Let's keep Ken's source fork as the primary version. When I get the chance I will update it instead of mine, to first bring his up to the current status of mine, then to make his even better by making it compatible with the latest Arduino IDE. Meanwhile, feel free to use mine if you have problems with his, until I can make these changes to his.
+
+**Note: my fork here is still not compatible with the latest Arduino IDE either. See notes below.**
+
 **Circuit**  
 (also described in the .ino file)  
 Circuit:  
